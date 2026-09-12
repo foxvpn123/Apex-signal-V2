@@ -1,0 +1,6 @@
+{
+  "name": "AI Trading Bot V2",
+  "description": "Multi-Model Consensus Signal Engine for Crypto Markets",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
